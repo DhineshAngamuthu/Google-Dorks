@@ -4,7 +4,11 @@ Google Dorks Ultimate Collection For Hackers
 What Is Google Dorks?
  It is basically an advanced google search!
 
-I have included four types of google dorks in this collection: Google dorks for SQL injection, Google dorks for Local File Inclusion, Google dorks For open CCTV cams and Google dorks for sensitive information.
+I have included four types of google dorks in this collection: 
+Google dorks for SQL injection, 
+Google dorks for Local File Inclusion,
+Google dorks For open CCTV cams 
+And Google dorks for sensitive information.
 
 Copy and paste the below google dorks on the search engine and have fun!
 Google Dorks For SQL Injection:
